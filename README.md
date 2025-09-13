@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eshann!
 - 👀 I’m an undergraduate CS student!
-- 🌱 I’m currently learning Java, C++, HTML, CSS, and Javascript!
+- 🌱 I’m currently learning Java, C++, Python, and React frameworks!
 - 📫 Reach out to me at eshannsaxena.university@gmail.com!
 
 <!---
