@@ -1,7 +1,7 @@
 👋 Hi, I’m Eshann Saxena  
 🎓 Computer Science student @ The University of Texas at Dallas
 
-📄 **Resume:** [View my resume]([https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1Gdl7oVnyDgvpIdM6JSsQ7wY4EJWzfKSZ/view?usp=sharing))
+📄 **Resume:** [View my resume](https://drive.google.com/file/d/1Gdl7oVnyDgvpIdM6JSsQ7wY4EJWzfKSZ/view?usp=sharing)
 
 I’m learning how to build software by actually building it — one project, one bug, and one improvement at a time 🚀
 
@@ -27,7 +27,7 @@ Basketball101 is a modernization of a legacy basketball education website. I’m
 - Building responsive layouts that work across devices 📱💻  
 
 🔮 What’s coming next:
-- Performance improvements
+- Performance improvements  
 - Future AI-driven features (roadmap in place)
 
 ---------------------
@@ -36,7 +36,7 @@ Basketball101 is a modernization of a legacy basketball education website. I’m
 **Languages:** JavaScript, TypeScript, Python, Java, C++  
 **Frameworks:** React, Next.js  
 **Libraries:** Pandas, Matplotlib, Plotly  
-**Tools:** Git, GitHub, VS Code, IntelliJ, PyCharm 
+**Tools:** Git, GitHub, VS Code, IntelliJ, PyCharm  
 
 ---------------------
 
@@ -57,5 +57,5 @@ Basketball101 is a modernization of a legacy basketball education website. I’m
 ## 📫 Let’s connect!
 If you’re learning, building, or just curious — feel free to reach out!
 
-🔗 GitHub: https://github.com/theonlyeshann  
-🔗 LinkedIn: https://www.linkedin.com/in/eshann-saxena
+🔗 GitHub: [https://github.com/theonlyeshann](https://github.com/theonlyeshann)  
+🔗 LinkedIn: [https://www.linkedin.com/in/eshann-saxena](https://www.linkedin.com/in/eshann-saxena)
