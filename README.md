@@ -57,5 +57,5 @@ Basketball101 is a modernization of a legacy basketball education website. I’m
 ## 📫 Let’s connect!
 If you’re learning, building, or just curious — feel free to reach out!
 
-🔗 GitHub: [https://github.com/theonlyeshann](https://github.com/theonlyeshann)  
+🔗 Email: eshannsaxena.university@gmail.com
 🔗 LinkedIn: [https://www.linkedin.com/in/eshann-saxena](https://www.linkedin.com/in/eshann-saxena)
