@@ -3,28 +3,28 @@
 
 📄 **Resume:** [View my resume](https://drive.google.com/file/d/1Gdl7oVnyDgvpIdM6JSsQ7wY4EJWzfKSZ/view?usp=sharing)
 
-I’m learning how to build software by actually building it — one project, one bug, and one improvement at a time 🚀
+I’m learning how to build software by actually building it — one project, one bug, and one improvement at a time.
 
 ---------------------
 
 ## 🙋‍♂️ About me
-I’m a CS student who learns best by doing 🛠️  
+I’m a CS student who learns best by doing.
 Classes give me the foundation, but most of my growth comes from working through real projects — figuring out structure, fixing bugs, and understanding *why* things break.
 
-I’m especially interested in frontend development 🎨 and how good structure and design make software easier to scale and maintain.
+I’m especially interested in frontend development and how good structure and design make software easier to scale and maintain.
 
 ---------------------
 
 ## 🧠 What I’m working on now
 ### 🏗 Basketball101 (Work in Progress)
-**Tech:** React ⚛️ | Next.js | TypeScript
+**Tech:** React | Next.js | TypeScript
 
 Basketball101 is a modernization of a legacy basketball education website. I’m rebuilding it from static HTML/CSS into a component-based React application with scalability in mind 📈
 
 🔹 What I’ve focused on so far:
 - Migrating static pages into reusable React components  
 - Structuring the project for long-term maintainability  
-- Building responsive layouts that work across devices 📱💻  
+- Building responsive layouts that work across devices 
 
 🔮 What’s coming next:
 - Performance improvements  
