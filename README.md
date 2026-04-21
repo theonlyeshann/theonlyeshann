@@ -1,7 +1,7 @@
 👋 Hi, I’m Eshann Saxena  
 🎓 Computer Science student @ The University of Texas at Dallas
 
-📄 **Resume:** [View my resume](https://drive.google.com/file/d/1Gdl7oVnyDgvpIdM6JSsQ7wY4EJWzfKSZ/view?usp=sharing)
+📄 **Resume:** [View my resume](https://drive.google.com/file/d/1JIawhGneovOW4cIJzqHkTsdPrxsiSL_t/view?usp=sharing)
 
 I’m learning how to build software by actually building it — one project, one bug, and one improvement at a time.
 
